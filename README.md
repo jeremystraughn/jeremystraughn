@@ -1,4 +1,5 @@
 ## Hi there 👋
+## I'm a bit new to gh so even though public, this repo is a scratch pad (for now)
 ## This is a slightly edited version of the README.md on the main branch, just different enough to give the diff something to do.
 ## If I wanted, apparently I could pick out some things (formerly known as "emoticons") from here: https://www.webfx.com/tools/emoji-cheat-sheet/
 <!--
