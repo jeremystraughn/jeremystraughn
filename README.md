@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## This is a slightly edited version of the README.md on the main branch, just different enough to give the diff something to do.
+## If I wanted, apparently I could pick out some things (formerly known as "emoticons") from here: https://www.webfx.com/tools/emoji-cheat-sheet/
 <!--
 **jeremystraughn/jeremystraughn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
