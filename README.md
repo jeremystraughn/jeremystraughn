@@ -5,6 +5,7 @@
 
 <img width="800" height="480" alt="unnamed_B563JWI" src="https://github.com/user-attachments/assets/94e8e496-95a5-4a6e-9419-84d2d222c7db" />
 
+## I added this picture so I could learn how to close an issue by creating and merging a pull request.  Note: be sure to write "closes #4" on its own line in the pull request description.
 
 <!--
 **jeremystraughn/jeremystraughn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
