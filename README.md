@@ -2,6 +2,10 @@
 ## I'm a bit new to gh so even though public, this repo is a scratch pad (for now)
 ## This is a slightly edited version of the README.md on the main branch, just different enough to give the diff something to do.
 ## If I wanted, apparently I could pick out some things (formerly known as "emoticons") from here: https://www.webfx.com/tools/emoji-cheat-sheet/
+
+<img width="800" height="480" alt="unnamed_B563JWI" src="https://github.com/user-attachments/assets/94e8e496-95a5-4a6e-9419-84d2d222c7db" />
+
+
 <!--
 **jeremystraughn/jeremystraughn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
